@@ -38,3 +38,6 @@ out/
 
 # Visual Studio Code files
 .vscode/
+
+# Local Netlify folder
+.netlify
