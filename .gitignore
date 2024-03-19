@@ -1,0 +1,40 @@
+# Node.js files
+node_modules/
+
+# Compiled output
+.next/
+out/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependency directories
+pnp/
+
+# Optional npm cache directory
+.npm
+
+# Next.js build cache
+.next/cache/
+.next/cache-loader/
+.next/compiled/
+.next/server/
+.next/static/
+.next/image-cache/
+.next/data/
+
+# Static HTML export
+out/
+
+# Visual Studio Code files
+.vscode/
