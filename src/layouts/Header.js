@@ -32,7 +32,7 @@ const Header = () => {
                     //   src="assets/images/logo2.png"
                     //   alt=""
                     // />
-                    Anushree
+                    anushree
                   </a>
                 </Link>
               </div>
