@@ -175,7 +175,7 @@ const Index = () => {
                         {userData?.about?.exp_year} <strong>+</strong>
                       </span>
                       <span className="value">
-                        Years of <strong>Experience</strong>
+                         <strong>Experience</strong>
                       </span>
                     </li>
                     <li>
