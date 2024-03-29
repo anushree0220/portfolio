@@ -26,12 +26,6 @@ const Header = () => {
               <div className="logo">
                 <Link href="/" legacyBehavior>
                   <a>
-                    // <img
-                    //   width={228}
-                    //   height={38}
-                    //   src="assets/images/logo2.png"
-                    //   alt=""
-                    // />
                     anushree
                   </a>
                 </Link>
